@@ -1,0 +1,947 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1500px;
+	 height: 1860px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #background 
+{ 
+	 left: -151px; 
+	 top: -93px; 
+	 position: absolute; 
+	 width: 1802px;
+	 height: 8640px;
+	 z-index:1;
+} 
+
+ #bg 
+{ 
+	 left: -1px; 
+	 top: 1746px; 
+	 position: absolute; 
+	 width: 1502px;
+	 height: 118px;
+	 z-index:2;
+} 
+
+ #secondarynavigationn 
+{ 
+	 left: 550px; 
+	 top: 1798px; 
+	 position: absolute; 
+	 width: 783px;
+	 height: 14px;
+	 z-index:3;
+} 
+
+ #Background 
+{ 
+	 left: -1px; 
+	 top: 1746px; 
+	 position: absolute; 
+	 width: 454px;
+	 height: 118px;
+	 z-index:4;
+} 
+
+ #hyperlink 
+{ 
+	 left: 235px; 
+	 top: 1798px; 
+	 position: absolute; 
+	 width: 133px;
+	 height: 12px;
+	 z-index:5;
+} 
+
+ #iconheart 
+{ 
+	 left: 165px; 
+	 top: 1780px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 50px;
+	 z-index:6;
+} 
+
+ #canvas 
+{ 
+	 left: 763px; 
+	 top: 1163px; 
+	 position: absolute; 
+	 width: 573px;
+	 height: 503px;
+	 z-index:7;
+} 
+
+ #Layer15 
+{ 
+	 left: 657px; 
+	 top: 1148px; 
+	 position: absolute; 
+	 width: 800px;
+	 height: 534px;
+	 z-index:8;
+} 
+
+ #Layer23 
+{ 
+	 left: 644px; 
+	 top: 1157px; 
+	 position: absolute; 
+	 width: 895px;
+	 height: 510px;
+	 z-index:9;
+} 
+
+ #maask 
+{ 
+	 left: 763px; 
+	 top: 1146px; 
+	 position: absolute; 
+	 width: 573px;
+	 height: 537px;
+	 z-index:10;
+} 
+
+ #p 
+{ 
+	 left: 840px; 
+	 top: 1279px; 
+	 position: absolute; 
+	 width: 420px;
+	 height: 112px;
+	 z-index:11;
+} 
+
+ #caanvas 
+{ 
+	 left: 164px; 
+	 top: 1163px; 
+	 position: absolute; 
+	 width: 573px;
+	 height: 503px;
+	 z-index:12;
+} 
+
+ #iStock1213513721 
+{ 
+	 left: 133px; 
+	 top: 1165px; 
+	 position: absolute; 
+	 width: 800px;
+	 height: 533px;
+	 z-index:13;
+} 
+
+ #Ellipse2 
+{ 
+	 left: 739px; 
+	 top: 1110px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 23px;
+	 z-index:14;
+} 
+
+ #layer_15 
+{ 
+	 left: 746px; 
+	 top: 1116px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 10px;
+	 z-index:15;
+} 
+
+ #h3 
+{ 
+	 left: 368px; 
+	 top: 955px; 
+	 position: absolute; 
+	 width: 764px;
+	 height: 139px;
+	 z-index:16;
+} 
+
+ #dash 
+{ 
+	 left: 719px; 
+	 top: 912px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 3px;
+	 z-index:17;
+} 
+
+ #h1 
+{ 
+	 left: 476px; 
+	 top: 852px; 
+	 position: absolute; 
+	 width: 549px;
+	 height: 26px;
+	 z-index:18;
+} 
+
+ #canvas_0 
+{ 
+	 left: -152px; 
+	 top: 80px; 
+	 position: absolute; 
+	 width: 1804px;
+	 height: 704px;
+	 z-index:19;
+} 
+
+ #Layer1 
+{ 
+	 left: -232px; 
+	 top: 78px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 702px;
+	 z-index:20;
+} 
+
+ #layer_21 
+{ 
+	 left: 1308px; 
+	 top: 745px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 12px;
+	 z-index:21;
+} 
+
+ #GetInspired 
+{ 
+	 left: 1180px; 
+	 top: 744px; 
+	 position: absolute; 
+	 width: 107px;
+	 height: 12px;
+	 z-index:22;
+} 
+
+ #USP 
+{ 
+	 left: 167px; 
+	 top: 648px; 
+	 position: absolute; 
+	 width: 431px;
+	 height: 99px;
+	 z-index:23;
+} 
+
+ #Ellipse3 
+{ 
+	 left: 1445px; 
+	 top: 378px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 108px;
+	 z-index:24;
+} 
+
+ #layer_25 
+{ 
+	 left: 1470px; 
+	 top: 417px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 30px;
+	 z-index:25;
+} 
+
+ #Ellipse3_0 
+{ 
+	 left: -58px; 
+	 top: 378px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 108px;
+	 z-index:26;
+} 
+
+ #layer_27 
+{ 
+	 left: 8px; 
+	 top: 417px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 30px;
+	 z-index:27;
+} 
+
+ #BG 
+{ 
+	 left: -152px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1804px;
+	 height: 83px;
+	 z-index:28;
+} 
+
+ #bottomborder 
+{ 
+	 left: -152px; 
+	 top: 79px; 
+	 position: absolute; 
+	 width: 1804px;
+	 height: 4px;
+	 z-index:29;
+} 
+
+ #search 
+{ 
+	 left: 1378px; 
+	 top: 30px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 22px;
+	 z-index:30;
+} 
+
+ #divider 
+{ 
+	 left: 1354px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 84px;
+	 z-index:31;
+} 
+
+ #FB 
+{ 
+	 left: 1201px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 18px;
+	 z-index:32;
+} 
+
+ #IG 
+{ 
+	 left: 1236px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 18px;
+	 z-index:33;
+} 
+
+ #TW 
+{ 
+	 left: 1278px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 15px;
+	 z-index:34;
+} 
+
+ #PIN 
+{ 
+	 left: 1321px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 17px;
+	 z-index:35;
+} 
+
+ #divider_0 
+{ 
+	 left: 1175px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 84px;
+	 z-index:36;
+} 
+
+ #close 
+{ 
+	 left: 1125px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 17px;
+	 z-index:37;
+} 
+
+ #EXPERIENCE1440OURPUR 
+{ 
+	 left: 410px; 
+	 top: 37px; 
+	 position: absolute; 
+	 width: 703px;
+	 height: 11px;
+	 z-index:38;
+} 
+
+ #1440logo 
+{ 
+	 left: 94px; 
+	 top: 15px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 53px;
+	 z-index:39;
+} 
+
+ #BG_0 
+{ 
+	 left: -1px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1502px;
+	 height: 83px;
+	 z-index:40;
+} 
+
+ #bottomborder_0 
+{ 
+	 left: -1px; 
+	 top: 79px; 
+	 position: absolute; 
+	 width: 1502px;
+	 height: 4px;
+	 z-index:41;
+} 
+
+ #search_0 
+{ 
+	 left: 1378px; 
+	 top: 30px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 22px;
+	 z-index:42;
+} 
+
+ #divider_1 
+{ 
+	 left: 1354px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 84px;
+	 z-index:43;
+} 
+
+ #BG_1 
+{ 
+	 left: 1176px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 84px;
+	 z-index:44;
+} 
+
+ #BOOKNOW 
+{ 
+	 left: 1227px; 
+	 top: 35px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 12px;
+	 z-index:45;
+} 
+
+ #divider_2 
+{ 
+	 left: 1175px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 84px;
+	 z-index:46;
+} 
+
+ #close_0 
+{ 
+	 left: 1125px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 17px;
+	 z-index:47;
+} 
+
+ #EXPERIENCE1440OURPUR_0 
+{ 
+	 left: 410px; 
+	 top: 35px; 
+	 position: absolute; 
+	 width: 703px;
+	 height: 11px;
+	 z-index:48;
+} 
+
+ #BG_2 
+{ 
+	 left: 1364px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 87px;
+	 height: 84px;
+	 z-index:49;
+} 
+
+ #bottomborder_1 
+{ 
+	 left: 1365px; 
+	 top: 80px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 4px;
+	 z-index:50;
+} 
+
+ #close_1 
+{ 
+	 left: 1378px; 
+	 top: 31px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 21px;
+	 z-index:51;
+} 
+
+ #BG_3 
+{ 
+	 left: -1px; 
+	 top: 80px; 
+	 position: absolute; 
+	 width: 1502px;
+	 height: 73px;
+	 z-index:52;
+} 
+
+ #baseline 
+{ 
+	 left: 164px; 
+	 top: 140px; 
+	 position: absolute; 
+	 width: 1172px;
+	 height: 3px;
+	 z-index:53;
+} 
+
+ #icon 
+{ 
+	 left: 1315px; 
+	 top: 102px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 22px;
+	 z-index:54;
+} 
+
+ #Enteryoursearchhere 
+{ 
+	 left: 166px; 
+	 top: 107px; 
+	 position: absolute; 
+	 width: 165px;
+	 height: 15px;
+	 z-index:55;
+} 
+
+ #BG_4 
+{ 
+	 left: -152px; 
+	 top: 80px; 
+	 position: absolute; 
+	 width: 1804px;
+	 height: 301px;
+	 z-index:56;
+} 
+
+ #Layer22 
+{ 
+	 left: 0px; 
+	 top: -472px; 
+	 position: absolute; 
+	 width: 1650px;
+	 height: 1100px;
+	 z-index:57;
+} 
+
+ #h3_0 
+{ 
+	 left: 852px; 
+	 top: 151px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 19px;
+	 z-index:58;
+} 
+
+ #p_0 
+{ 
+	 left: 850px; 
+	 top: 196px; 
+	 position: absolute; 
+	 width: 395px;
+	 height: 110px;
+	 z-index:59;
+} 
+
+ #GroupsRestRenewalPhi 
+{ 
+	 left: 344px; 
+	 top: 134px; 
+	 position: absolute; 
+	 width: 219px;
+	 height: 179px;
+	 z-index:60;
+} 
+
+ #layer_61 
+{ 
+	 left: 627px; 
+	 top: 136px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 175px;
+	 z-index:61;
+} 
+
+ #BG_5 
+{ 
+	 left: -152px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1804px;
+	 height: 83px;
+	 z-index:62;
+} 
+
+ #bottomborder_2 
+{ 
+	 left: -152px; 
+	 top: 79px; 
+	 position: absolute; 
+	 width: 1804px;
+	 height: 4px;
+	 z-index:63;
+} 
+
+ #search_1 
+{ 
+	 left: 1378px; 
+	 top: 30px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 22px;
+	 z-index:64;
+} 
+
+ #divider_3 
+{ 
+	 left: 1354px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 84px;
+	 z-index:65;
+} 
+
+ #BG_6 
+{ 
+	 left: 1176px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 84px;
+	 z-index:66;
+} 
+
+ #BOOKNOW_0 
+{ 
+	 left: 1227px; 
+	 top: 35px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 12px;
+	 z-index:67;
+} 
+
+ #divider_4 
+{ 
+	 left: 1175px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 84px;
+	 z-index:68;
+} 
+
+ #close_2 
+{ 
+	 left: 1125px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 17px;
+	 z-index:69;
+} 
+
+ #EXPERIENCE1440OURPUR_1 
+{ 
+	 left: 410px; 
+	 top: 37px; 
+	 position: absolute; 
+	 width: 703px;
+	 height: 11px;
+	 z-index:70;
+} 
+
+ #1440logo_0 
+{ 
+	 left: 94px; 
+	 top: 15px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 53px;
+	 z-index:71;
+} 
+
+ #CURSOR 
+{ 
+	 left: 415px; 
+	 top: 49px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 22px;
+	 z-index:72;
+} 
+
+ #BG_7 
+{ 
+	 left: -152px; 
+	 top: 80px; 
+	 position: absolute; 
+	 width: 1804px;
+	 height: 301px;
+	 z-index:73;
+} 
+
+ #Layer22_0 
+{ 
+	 left: 0px; 
+	 top: -472px; 
+	 position: absolute; 
+	 width: 1650px;
+	 height: 1100px;
+	 z-index:74;
+} 
+
+ #MeetingsConferencesV 
+{ 
+	 left: 705px; 
+	 top: 137px; 
+	 position: absolute; 
+	 width: 171px;
+	 height: 175px;
+	 z-index:75;
+} 
+
+ #CURSOR_0 
+{ 
+	 left: 740px; 
+	 top: 228px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 22px;
+	 z-index:76;
+} 
+
+ #GroupsRestRenewalPhi_0 
+{ 
+	 left: 343px; 
+	 top: 134px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 179px;
+	 z-index:77;
+} 
+
+ #layer_78 
+{ 
+	 left: 627px; 
+	 top: 136px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 175px;
+	 z-index:78;
+} 
+
+ #CURSOR_1 
+{ 
+	 left: 418px; 
+	 top: 269px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 22px;
+	 z-index:79;
+} 
+
+ #BG_8 
+{ 
+	 left: -152px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1804px;
+	 height: 83px;
+	 z-index:80;
+} 
+
+ #bottomborder_3 
+{ 
+	 left: -152px; 
+	 top: 79px; 
+	 position: absolute; 
+	 width: 1804px;
+	 height: 4px;
+	 z-index:81;
+} 
+
+ #search_2 
+{ 
+	 left: 1378px; 
+	 top: 30px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 22px;
+	 z-index:82;
+} 
+
+ #divider_5 
+{ 
+	 left: 1354px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 84px;
+	 z-index:83;
+} 
+
+ #BG_9 
+{ 
+	 left: 1176px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 84px;
+	 z-index:84;
+} 
+
+ #BOOKNOW_1 
+{ 
+	 left: 1227px; 
+	 top: 35px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 12px;
+	 z-index:85;
+} 
+
+ #divider_6 
+{ 
+	 left: 1175px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 84px;
+	 z-index:86;
+} 
+
+ #close_3 
+{ 
+	 left: 1125px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 17px;
+	 z-index:87;
+} 
+
+ #EXPERIENCE1440OURPUR_2 
+{ 
+	 left: 410px; 
+	 top: 37px; 
+	 position: absolute; 
+	 width: 703px;
+	 height: 11px;
+	 z-index:88;
+} 
+
+ #1440logo_1 
+{ 
+	 left: 94px; 
+	 top: 15px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 53px;
+	 z-index:89;
+} 
+
+ #CURSOR_2 
+{ 
+	 left: 415px; 
+	 top: 49px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 22px;
+	 z-index:90;
+} 
+
+ #Layer26 
+{ 
+	 left: 87px; 
+	 top: 7px; 
+	 position: absolute; 
+	 width: 127px;
+	 height: 59px;
+	 z-index:91;
+} 
+
+ #Layer24 
+{ 
+	 left: 706px; 
+	 top: 436px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 85px;
+	 z-index:92;
+} 
+
+ #Layer25 
+{ 
+	 left: 700px; 
+	 top: 428px; 
+	 position: absolute; 
+	 width: 99px;
+	 height: 99px;
+	 z-index:93;
+} 
